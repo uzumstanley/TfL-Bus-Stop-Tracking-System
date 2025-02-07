@@ -136,6 +136,6 @@ npm start
 5. Submit a Pull Request (PR)
 
 
-🚀 Built by [Stanley Ekene](https://github.com/uzumstanley)
+🚀 Built by [Stanley Uzum](https://github.com/uzumstanley)
 
 
