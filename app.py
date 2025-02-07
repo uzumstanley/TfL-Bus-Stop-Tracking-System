@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load dataset
-df = pd.read_csv("/Users/mac/Desktop/TRAFFIC/Bus Stops/TfL-App/cleaned_Bus_Stops.csv")
+df = pd.read_csv("cleaned_Bus_Stops.csv")
 
 @app.route("/")
 def home():
